@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fpAy425qrgyP16g+HcoigMBP4kU3jq2alrGB5pDM30kCwVPKyvWj8Xewl9x0UP8KNKYM07oMpko8aTTpEjNofQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarah.gilbreath\\source\\repos\\2023_dotnetcore_practice_store\\2023_dotnetcore_practice_store\\2023_dotnetcore_practice_store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarah.gilbreath\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

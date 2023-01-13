@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\2023_dotnetcore_practice_store.props" />
+</Project>

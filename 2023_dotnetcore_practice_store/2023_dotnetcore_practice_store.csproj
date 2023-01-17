@@ -5,4 +5,10 @@
     <RootNamespace>_2023_dotnetcore_practice_store</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="changingMmodel
+			" />
+  </ItemGroup>
+
 </Project>

@@ -1,6 +1,9 @@
-﻿namespace _2023_dotnetcore_practice_store.Models
+﻿using System.Collections;
+
+namespace _2023_dotnetcore_practice_store.Models
 {
-    public class ICategoryRepository
+    public interface ICategoryRepository
     {
+        IEnumerable<Category> AllCategories { get; }
     }
 }

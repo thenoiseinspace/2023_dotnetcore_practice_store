@@ -15,7 +15,8 @@ namespace _2023_dotnetcore_practice_store.Controllers
         }
 
         public ViewResult List()
-        { 
+        {
+            ViewBag.CurrentCategory = "Cheese cakes"; 
             return View(_pieRepository.AllPies) ; 
         } 
     } 
